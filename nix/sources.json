@@ -1,0 +1,26 @@
+{
+    "nixfiles": {
+        "branch": "main",
+        "description": "My nixfiles",
+        "homepage": null,
+        "owner": "dimitrijer",
+        "repo": "nixfiles",
+        "rev": "17269e02c9db0cb7f2b533c9d7f4aca6850a56da",
+        "sha256": "0dkm8861fqp1n8rc3m2pab7p727lqmy83sbik8i2b5k0nw4q5nia",
+        "type": "tarball",
+        "url": "https://github.com/dimitrijer/nixfiles/archive/17269e02c9db0cb7f2b533c9d7f4aca6850a56da.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixpkgs-unstable",
+        "description": "Nix Packages collection",
+        "homepage": null,
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "bf446f08bff6814b569265bef8374cfdd3d8f0e0",
+        "sha256": "0wb2cj8070xfmysllkhavd4a5zjw7mdhhyk4r1r1146ayw8i9vkj",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/bf446f08bff6814b569265bef8374cfdd3d8f0e0.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
